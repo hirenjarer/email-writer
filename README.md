@@ -30,7 +30,7 @@ npm start
 ### Images
 
 #### Home Page
-![Home Page](images/Home-Page.png)
+![Home Page](Home-Page.png)
 
 #### Email Reply Generator
-![Email Reply AI](images/Email-Reply-AI.png)
+![Email Reply AI](Email-Reply-AI.png)
