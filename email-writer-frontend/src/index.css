@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.reset-button {
+    background-color: red;
+    border: none;
+    transition: all .3s ease;
+
+}
+
+.reset-button:hover {
+    background-color: rgb(161, 3, 3);
+    transition: all .3s ease;
+}
+.button:active {
+    transform: scale(.9);
+    transition: all .3s ease;
+}
