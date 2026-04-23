@@ -26,3 +26,6 @@ mvn spring-boot:run
 npm install
 npm start
 ```
+
+### Images
+
